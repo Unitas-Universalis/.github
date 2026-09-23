@@ -21,5 +21,3 @@ Within this structure:
 For Unruh–DeWitt detectors embedded in neuromorphic or reservoir‑computing regimes, this formalism avoids explicit field correlators and avoids global singularities, vacuum assumptions, and density‑matrix overhead; replacing them with 3-tuple interval‑valued symbolic operations that align naturally with adaptive, non‑commutative substrates.
 
 The resulting Diffeomorphic Quantum Gravity formulation is then compact, composable, and better suited to High‑update‑rate, dynamical Quantum Error-Correction Systems - such as within Hybrid Super-Computer systems - than traditional Hilbert-space‑centric approaches.
-
-Additionally, I have a Patent Pending for a Quantum Gravity Neuromorphic Sensor, looking to contribute to Open-Source Intelligence and Geographical Information Systems, focusing on Quantum Gravity Neuromorphic Hardware and Software for Quantum-Strategic Intelligence-systems.
